@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Capturas I/Q crudas (muy pesadas)
+*.bin
+*.dat
+*.cfile
+*.iq
+*.sigmf-data
+
+# Archivos temporales
+*.bak
+*.tmp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
