@@ -1,0 +1,1 @@
+# electronica2-2026-2s-grupo8-I-Q-con-AGC-en-ADALM-Pluto
